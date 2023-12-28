@@ -1,0 +1,25 @@
+{
+  "name": "automail-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sid-khuntwal/automail-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sid-khuntwal/automail-nodejs/issues"
+  },
+  "homepage": "https://github.com/sid-khuntwal/automail-nodejs#readme",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
+    "express": "^4.18.2",
+    "googleapis": "^118.0.0"
+  }
+}
